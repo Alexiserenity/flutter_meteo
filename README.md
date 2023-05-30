@@ -50,6 +50,3 @@ Pour exécuter le projet localement, suivez les étapes suivantes :
 flutter run
 
 L'application devrait maintenant se lancer sur votre appareil ou votre émulateur.
-
-## Conclusion
-Le projet d'Application Météo est un exemple d'application mobile développée avec Flutter, utilisant l'API Open-Meteo pour obtenir les prévisions météorologiques en temps réel. Vous pouvez l'utiliser comme point de départ pour créer votre propre application météo personnalisée ou comme moyen d'apprentissage pour comprendre les concepts de Flutter et du modèle BLoC.
